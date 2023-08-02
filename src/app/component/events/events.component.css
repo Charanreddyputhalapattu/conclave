@@ -1,0 +1,15 @@
+.content{
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
+  margin-left: 650px;
+  padding-top: 50px;
+}
+table {
+    width: 100%;
+    margin-top: 40px;
+  }
+  .container{
+    background-color: #150E60;
+    height: 706px;
+  }

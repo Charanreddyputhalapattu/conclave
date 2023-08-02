@@ -1,0 +1,36 @@
+.heading p{
+    font-size: 17px;
+    line-height: 1.6;
+    display: inline-flex;
+    width: 75%;
+    margin-top: 40px;
+}
+
+li{
+    font-size: 20px;
+    line-height: 1.2;
+}
+h2{
+    margin-left: 20px;
+}
+.container{
+    background-color: #CFE6FF;
+    padding: 40px;
+}
+.head{
+    font-size: 25px;
+    font-weight: bold;
+}
+.divide p{
+    font-size: 20px;
+    line-height: 1.3;
+}
+p{
+    text-align: justify;
+}
+.heading img{
+    padding-top: 50px;
+    width: 450px;
+    height: 300px;
+    margin-left: -250px;
+}

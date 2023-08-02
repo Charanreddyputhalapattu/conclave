@@ -1,0 +1,38 @@
+.content{
+    font-size: 25px;
+    margin-left: 120px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    line-height: 1.6;
+    margin-top: 40px;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 60px;
+   
+    margin-bottom: 20px;
+}
+.form-row{
+    padding-left: 60px;
+    display: inline-flex;
+    margin-left: 180px;
+}
+.form-group{
+    padding-left: 20px;
+    font-size: 28px;
+}
+.container{
+    background-color: #CFE6FF;
+    height: 100%;
+}
+.head{
+    font-size: 70px;
+    font-weight: bold;
+    padding-top: 70px;
+    padding-left: 650px;
+    color: #150E60;
+}
+p{
+    line-height: 1.3;
+}
