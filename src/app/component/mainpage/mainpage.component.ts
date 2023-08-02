@@ -15,7 +15,7 @@ export class MainpageComponent implements OnInit {
   secs: number = 4;
 
   x = setInterval(() => {
-    var futureDate = new Date("Aug 2, 2023 15:34:24").getTime();
+    var futureDate = new Date("Aug 7, 2023 15:34:24").getTime();
     var today = new Date().getTime();
     var distance = futureDate - today;
     this.days = Math.floor(distance / (1000 * 60 * 60 * 24));
