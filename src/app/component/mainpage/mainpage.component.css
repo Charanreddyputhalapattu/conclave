@@ -21,8 +21,8 @@
     height: 900px;
 }
 
-.bg{
-    background-color: rgba(0,0,0,0.5);
+.bg {
+    background-color: rgba(0, 0, 0, 0.5);
     height: 100%;
 }
 
@@ -90,7 +90,7 @@
     color: white;
     font-size: 20px;
     font-weight: bold;
-    
+
 }
 
 .time {
@@ -127,4 +127,11 @@ p {
 
 .logo .ieee {
     margin-left: 700px;
+}
+
+@media only screen and (max-width:400px) {
+    .container {
+        width: 90%;
+        height: 90%;
+    }
 }
